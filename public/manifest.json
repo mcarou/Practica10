@@ -1,0 +1,23 @@
+{
+    "short_name": "Entrega10",
+    "name": "Practica MOOC Modulo 10",
+    "description": "Realización de la práctica",
+    "icons": [
+      {
+        "src": "iconos/Icon192.svg",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "iconos/Icon512.svg", 
+        "type": "image/png",
+        "sizes": "512x512",
+        "purpose": "maskable"
+      }
+    ],
+    "start_url": "index.html",
+    "background_color": "#3367D6",
+    "display": "standalone",
+    "scope": "/public",
+    "theme_color": "#3367D6"
+  }
